@@ -57,16 +57,16 @@ This project performs analytical queries on NYC Yellow Taxi trip data using Apac
 ---
 
 ## 📁 File Structure
--nyc-yellow-taxi-analytics/
--│
--├── data/
--│ ├── yellow_tripdata_2025_01.parquet
--│ └── yellow_tripdata_2025_02.parquet
--│
--├── notebooks/
--│ └── nyc_taxi_analysis_databricks.py # Exported Databricks notebook (optional)
--│
--├── README.md
+- nyc-yellow-taxi-analytics/
+- │
+- ├── data/
+- │ ├── yellow_tripdata_2025_01.parquet
+- │ └── yellow_tripdata_2025_02.parquet
+- │
+- ├── notebooks/
+- │ └── nyc_taxi_analysis_databricks.py # Exported Databricks notebook (optional)
+- │
+- ├── README.md
 
 ---
 
